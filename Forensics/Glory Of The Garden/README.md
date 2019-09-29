@@ -6,6 +6,6 @@
 ## Hint
   > What is a hex editor?
 ## Solution
- 
+ Running 'hexdump -C' returns a formatted hex table. Either 'grep' for picoCTF or just look at the last listing to see the flag.
 ### Flag
-`picoCTF{Flag_Here}`
+`picoCTF{more_than_m33ts_the_3y31e0af5C7}`
